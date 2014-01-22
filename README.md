@@ -1,4 +1,4 @@
 OGRE
 ====
 
-Object-oriented Graphics Rendering Engine
+Object-oriented Graphics Rendering Engine Sample for JavaScript version.
